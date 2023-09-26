@@ -1,7 +1,7 @@
 # Car-Number-Plate-Recognition
 
 ## Demo 
-[![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/75379150/270531572-142655e8-e642-412e-b61b-50f606e2505e.PNG)]()
+[![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/75379150/270531572-142655e8-e642-412e-b61b-50f606e2505e.PNG)](https://www.youtube.com/watch?v=csyMuw616Tw)
 
 ## Table of Contents
 
